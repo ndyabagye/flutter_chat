@@ -10,19 +10,87 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		bLvoZ4rM8HASm4x3gPbSW3up5XE=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		9ocv2YKzKrmFsH12tVp5LpHIUJo=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		dpz886txBE5rSYl534LxWYAxpLM=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		VB8Dttzwsjh2PlaYIOq39lCtM9o=
+		f6Eubor80/4+iiPY5khupX+j6cg=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Black.ttf</key>
+		<data>
+		0z8Nrjk3W9CnCSBL2AGVGIYHjjw=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Bold.ttf</key>
+		<data>
+		sl9vYMIv6vM+yCnHrmuwhq8vTZ4=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-ExtraBold.ttf</key>
+		<data>
+		Q0n9JyO1TH3bOUVa+Q9PuqrkcAw=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Light.ttf</key>
+		<data>
+		Gbs0g0M12tPIs6dPH3AMbjyv684=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Medium.ttf</key>
+		<data>
+		2hHiB3U141jgBLQ5WR1wH3EJGNI=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Regular.ttf</key>
+		<data>
+		Eux+p4E/xnJH+657gpC2GxVZ7CU=
+		</data>
+		<key>flutter_assets/assets/fonts/Urbanist-Semibold.ttf</key>
+		<data>
+		tdCPiVmCCjeX0IPN+E4OcwT4XcQ=
+		</data>
+		<key>flutter_assets/assets/images/facebook.png</key>
+		<data>
+		qgmWedhvGofje5yYJTBeFCahc5c=
+		</data>
+		<key>flutter_assets/assets/images/google.png</key>
+		<data>
+		tYnubJikoDqlDmXi+gG4TJkksgw=
+		</data>
+		<key>flutter_assets/assets/svg/ic_add.svg</key>
+		<data>
+		HyZpDQMirnF4fOHU56k/yyN2Csw=
+		</data>
+		<key>flutter_assets/assets/svg/ic_favorite.svg</key>
+		<data>
+		KW35Tyd+0APWxXwQP2MPcxqzRE4=
+		</data>
+		<key>flutter_assets/assets/svg/ic_home.svg</key>
+		<data>
+		nLuybB+I33Av1Ox6GG46pmRmeQM=
+		</data>
+		<key>flutter_assets/assets/svg/ic_location.svg</key>
+		<data>
+		lj9kbfDtR9r+0bBy3Ny3Ug7NDks=
+		</data>
+		<key>flutter_assets/assets/svg/ic_messages.svg</key>
+		<data>
+		t8+xbb/C9O2I+LheUPmMkSFGmmg=
+		</data>
+		<key>flutter_assets/assets/svg/ic_user.svg</key>
+		<data>
+		7CSp+67vj4OsxqXlPEnT7tCfK28=
+		</data>
+		<key>flutter_assets/assets/temp/post1.jpg</key>
+		<data>
+		iIUWePZoPe7WdXTJa9o6LSYhNKk=
+		</data>
+		<key>flutter_assets/assets/temp/user1.png</key>
+		<data>
+		z30YcnDxjKThF6pBkVF/bZ5vGp4=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +102,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		YvHLZ0z6qa1hm0cq8qVlxz4ou7g=
+		vdvfuzYeYqYz2Ai0qHqlK31EkpQ=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -55,28 +123,147 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			Ehzfdbq752QBWNu3d5PzBWXjN19jjuIgCGgW3FW2a6U=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			byTToUr2csAPyvuqqUgU+7T6wOsHRibSAvsXbPg6n+U=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			Sp/8d/gWzhH0lPbtGCOBbtVtKafhCKz1/K8+eyxsztE=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4PYeqQdNPbZ/ev3bV41pKJqkRybMiZfqKtOtxp7xBX4=
+			tfg3SFzqLnE7EqKrbGHfwbqn0octvFVaXDbBg/cUOfU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k+U55oXrSHBnUq7kg0ZfEssEgNFQ6Znp4pfpjRnxpBg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			94fLutGliqwp6WrWRW+XvXJtAfsxUNnZeqvmwP2OrNg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KbmVZE1b2Sc5TulqyH5sPrQqP0Nc2G8vTw2TNCDJggE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ctdcU6EyoL/P7CZQd6pTRPByyzfFSDDhgeh9QVeDLPw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jSSf4kWewWo2/vvewXGJAnXEmBZ4tdbCta062bXv1g8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ER73s3ffQWZOf8suG1fRdKIlCJdnAJU/SCiOt/VnNuw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Urbanist-Semibold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sRxT7cGBISl2izOD5wSCdopIhyJ2NaAtjX+pvPwc/CU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/facebook.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D7kwWQraYCyrD2rojhO3SCx/9e+PE2FCbMr4reQZNww=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/google.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qdx/eJZsoOylxnDqgFZ12EalP3CO28xC8ahgxqdDZPA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_add.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B94x/P4hPFf6Ckz11t/udgbnZ21sjbKsfauIN9yQ+xs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_favorite.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tMKFLeo+eKE7pJBWa3aM6HXQJWG5CSEUFolHSZHY52Q=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_home.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p0XARphKrOIc5f6nurE7jfxvyEXKTo0Ctv7yNvD8fPw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_location.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMUMuSWIZKKazKksX6a8j58MO9azafSBJmgTnb2iZXI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_messages.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pz/MQwU3XzpRUXCyKxyfN33E9a+wTOBPlFW+mvQ+Cbo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/svg/ic_user.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KTk5QjTj0M13MnZJ9nNOCPdEO5zkATw40QV6ypGRYdc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/temp/post1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C8RoaY0a5D9aFh7UwJ59GmlCxshRDGpXTT/8rBdju3E=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/temp/user1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bY24MUwxd4nWOLL47AeEzgXHQ1umRA46IBruN46sU9s=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -97,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dbq8NRdLNKSIl2BPwEKL3zPeWABGMz8NZuBMzy3dDo4=
+			/rCF/lfYkJFKldea+R1AP0uoJ3lBubdfnA0qfv22CXM=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

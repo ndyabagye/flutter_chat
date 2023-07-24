@@ -1,50 +1,47 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chat/core/styles/app_colors.dart';
-import 'package:flutter_chat/core/styles/app_text.dart';
+import 'package:flutter_chat/core/config/app_icons.dart';
+import 'package:flutter_chat/core/config/app_strings.dart';
+import 'package:flutter_chat/presentation/widgets/post_item.dart';
+import 'package:flutter_chat/presentation/widgets/tool_bar.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+  HomePage({super.key});
+
+  List<String> users = [];
 
   @override
   Widget build(BuildContext context) {
+    mockUsersFromServer();
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: AppColors.background,
-        title: Text("Flutter Chat"),
-        centerTitle: true,
+      appBar: ToolBar(
+        title: AppStrings.appName,
         actions: [
-          Icon(Icons.location_on_outlined),
+          IconButton(
+            onPressed: () {},
+            icon: SvgPicture.asset(AppIcons.icLocation),
+          ),
         ],
       ),
-      body: ListView(
-        children: mockUsersFromServer(),
+      body: ListView.separated(
+        itemBuilder: (context, index) {
+          return PostItem(
+            user: users[index],
+          );
+        },
+        itemCount: users.length,
+        separatorBuilder: (BuildContext context, int index) {
+          return const SizedBox(
+            height: 24,
+          );
+        },
       ),
     );
   }
 
-  Widget _userItem() {
-    return Row(
-      children: [
-        Image.asset(
-          'assets/temp/user1.png',
-          width: 40,
-          height: 40,
-        ),
-        SizedBox(
-          width: 16,
-        ),
-        Text(
-          "Sarah Fernandez",
-          style: AppText.subtitle3,
-        )
-      ],
-    );
-  }
-
-  List<Widget> mockUsersFromServer() {
-    List<Widget> users = [];
-    for (var i = 0; i < 1000; i++) {
-      users.add(_userItem());
+  mockUsersFromServer() {
+    for (var i = 0; i < 100; i++) {
+      users.add("User number $i");
     }
     return users;
   }
