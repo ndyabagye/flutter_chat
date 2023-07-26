@@ -11,4 +11,5 @@ class AppColors {
   static const background = Color(0xFF001A25);
   static const black = Color(0xFF000000);
   static const white = Color(0xFFFFFFFF);
+  static final fieldColor = const Color(0xFFD9D9D9).withOpacity(0.6);
 }
